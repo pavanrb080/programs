@@ -1,0 +1,20 @@
+2 
+flashdrive H H
+ssd L H
+5
+flashdrive X 1.0
+ssd X 10.0
+flashdrive Y 0.9
+flashdrive Z 1.1
+ssd Y 12.5
+
+2 mp3player H H
+8 ssd L L
+ssd W 11.0
+ssd X 12.0
+mp3player X 60.0
+mp3player Y 20.0
+mp3player Z 50.0
+ssd V 10.0
+ssd Y 11.0
+ssd Z 12.0
