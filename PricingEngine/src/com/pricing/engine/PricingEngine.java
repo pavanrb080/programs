@@ -124,15 +124,6 @@ public class PricingEngine {
 					}
 					
 				}
-				/*else if(sections.length == 3) {
-					
-					Integer.parseInt(sections[2])
-					for(Product prod : products) {
-						if (prod.getNameOfProduct().equals(sections[0])) {
-							prod.getProdPrices().add((Double.parseDouble(sections[2])));
-						}
-					}
-				}*/
 			}
 			
 		} catch (IOException e) {
